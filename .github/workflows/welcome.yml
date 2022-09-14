@@ -1,4 +1,4 @@
-name: Post Welcome Comment
+name: Post Welcome Comments
 
 on:
   pull_request:
